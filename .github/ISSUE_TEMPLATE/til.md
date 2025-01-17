@@ -1,12 +1,3 @@
----
-name: TIL
-about: TIL
-title: TIL - YYYY-MM-DD
-labels: TIL
-assignees: ''
-
----
-
 # TIL - YYYY-MM-DD
 
 ## 오늘의 학습
@@ -15,8 +6,8 @@ assignees: ''
 - [ ] 3
 - [ ] 4 
 
-## 느낀 점
-
 ## 배운 점
+
+## 겪은 문제 및 해결
 
 ## 참고 자료
