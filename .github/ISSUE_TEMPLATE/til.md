@@ -1,7 +1,7 @@
 ---
 name: TIL
 about: TIL
-title: TIL - YYYY-MM-DDdd
+title: TIL - YYYY-MM-DD
 labels: TIL
 assignees: ''
 
