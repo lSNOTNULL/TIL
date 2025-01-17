@@ -1,3 +1,12 @@
+---
+name: TIL
+about: TIL
+title: ''
+labels: TIL
+assignees: ''
+
+---
+
 # TIL - YYYY-MM-DD
 
 ## 오늘의 학습
